@@ -48,6 +48,7 @@ def main():
 
     # Read sentences
     sentences = readFile("words2.txt")
+    print(sentences)
 
     # Make uniq words list
     words = []
